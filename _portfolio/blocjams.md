@@ -41,8 +41,8 @@ var buildCollectionItemTemplate = function() {
 {% endhighlight %}
 It was exciting to see how much power could be wielded with Javascript.   
 
-After every line of code added to BlocJams a series of test was needed to make sure it was all working as intended.  I would have spent a lot of time in the browser console to make sure that each new line added didn't give me errors that couldn't be explained.  I also learned that not all errors are bad and if an error doesn't effect the user experience it may be ok to leave it in.    
+After every line of code added to BlocJams a series of test was needed to make sure it was all working as intended.I spent a lot of time in the browser console to make sure that each new line added didn't give me errors that couldn't be explained.  I also learned that not all errors are bad and if an error doesn't effect the user experience it may be ok to leave it in.    
 
 I learned a great deal about how to organize my code and to make sure to use documentation while writing it.  I've found out a lot about knowing my limits and when to take a break from projects.  If I could go back and do it over Id want to take more time examining how the code I was writing worked and know when to push forward or take a break.  One of the best part of this project in my opinion was learning about myself and how I work on projects.
-{:.center}
+
 ![]({{ site.baseurl }}/img/thumbs-up.jpg)
