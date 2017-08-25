@@ -11,6 +11,7 @@ short-description: BlocJams is an awesome music player!
 
 BlocJams is a music player that uses HTML, CSS, Javascript, jQuery and Angular to create a user interface that allows the user to play music.
 
+![]({{ site.baseurl }}/img/bjam-pic.png)
 
 I was assigned the BlocJams music player project and set to work on it to expand my knowledge of practical web design.  I was responsible for following directions and encouraged to try my own hand at implementing features to make BlocJams a success.  
 
