@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Web Developer , Gamer, Outdoorsmen, and Dad.</h1>
-  header_text_feature_image:
+  header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -27,7 +27,7 @@ theme_settings:
   flickr:
   github: "Thrilldozer"
   google_plus:
-  instagram: "joeykirk"
+  instagram:
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -35,7 +35,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter:
   wordpress:
   youtube:
 
