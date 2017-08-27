@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 feature-img: "img/bloc_jams_bg.jpg"
-thumbnail-path: "{{ site.baseurl }}/img/bjam-pic.png"
+thumbnail-path: "/img/bjam-pic.png"
 short-description: BlocJams is an awesome music player!
 
 ---
