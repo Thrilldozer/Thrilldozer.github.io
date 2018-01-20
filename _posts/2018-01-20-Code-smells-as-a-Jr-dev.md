@@ -1,3 +1,4 @@
+---
 layout: post
 title: Code smells as a Jr Dev: or how I learned to stop worrying and love the testing (and a great talk from Sandi Mets)
 ---
