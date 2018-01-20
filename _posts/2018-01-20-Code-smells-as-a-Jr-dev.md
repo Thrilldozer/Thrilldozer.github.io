@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code smells as a Jr Dev: or how I learned to stop worrying and love the testing (and a great talk from Sandi Mets)
+title: Code smells as a Jr Dev and a great talk from Sandi Mets
 ---
 
 https://streamacon.com/video/laracon-us-2016/sandi-metz-get-a-whiff-of-this
